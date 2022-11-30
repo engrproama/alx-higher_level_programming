@@ -1,7 +1,6 @@
-## DIRECTORY 1
-This is the first directory for this sprint.
-
-Lets make every step count
+# 0x00-python-hello_world tasks & their solutions
+This directory contains solutions that I submitted for the tasks
+on 0x00-python-hello_world.
 
 ## Authored By:
 Engr. Precious Okwukwe Amaechi.
