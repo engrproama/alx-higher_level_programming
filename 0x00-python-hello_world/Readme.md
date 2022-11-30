@@ -4,4 +4,4 @@ This repo is for the second sprint of the ALX Software Engineering Programme. In
 You will find in this repo all the solutions I submitted for my daily tasks.
 
 ## Authored By:
-Engr. Precious Amaechi
+Engr. Precious Amaechi.
