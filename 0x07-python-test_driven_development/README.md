@@ -6,6 +6,8 @@
 # How to get started?
 To begin writing tests in Python we will use the unittest module that comes with Python. To do this we create a new file mytests.py, which will contain all our tests.
 
+![1_FZGakHQbCUMAyDinf-KBiw](https://user-images.githubusercontent.com/106975779/211265011-d2852fef-c642-4c74-aee4-64abc2b38826.png)
+
 Let’s begin with the usual “hello world”:
 
 import unittest
