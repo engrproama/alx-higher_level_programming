@@ -88,9 +88,9 @@ def hello_world():
 
 def create_num_list(length):
     pass
-
+~~~
 - Running python mytests.py will generate the following output in the command line:
-
+~~~
 E.
 
 ====================================================================
