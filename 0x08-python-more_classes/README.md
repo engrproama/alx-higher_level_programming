@@ -95,7 +95,7 @@ p1 = Person("John", 36)
 p1.myfunc()
 ~~~
 
-# Excerpts on python gotten from W3school
+- Excerpts on python gotten from W3school
 # For more Readings or updates get it here:
 Python Docs Page [Read][1]
 Python Self Test [Read][2]
