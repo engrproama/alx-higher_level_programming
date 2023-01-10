@@ -97,8 +97,8 @@ p1.myfunc()
 
 - Excerpts on python gotten from W3school
 # For more Readings or updates get it here:
-Python Docs Page [Read][1].
-Python Self Test [Read][2].
+- Python Docs Page [Read][1].
+- Python Self Test [Read][2].
 
 [1]:https://docs.python.org/3/tutorial/classes.html
 [2]:https://www.w3schools.com/python/python_classes.asp
